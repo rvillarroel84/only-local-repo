@@ -8,3 +8,6 @@ Comentarios a mi readme file.
 
 
 Esto debe verse como una modificacion nueva
+
+
+Utilizare esta operacion de deshacer.
